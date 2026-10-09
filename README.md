@@ -50,7 +50,11 @@ FAF-Freight-Analytics-MySQL/
 │   ├── 06_trade_type_analysis.sql
 │   ├── 07_freight_corridors.sql
 │   └── 08_advanced_mode_rankings.sql
-├── results/
+├── docs/
+│   ├── dataset_and_methodology.md
+│   ├── data_validation.md
+│   └── business_insights.md
+├── screenshots/
 └── README.md
 ```
 
