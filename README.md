@@ -40,7 +40,11 @@ The original dataset is large. It is not included in this repository. Obtain the
 ## Repository Structure
 
 ```text
-FAF-Freight-Analytics-MySQL/
+## Repository Structure
+
+```text
+faf-freight-analytics-mysql/
+│
 ├── sql/
 │   ├── 01_database_setup.sql
 │   ├── 02_data_validation.sql
@@ -50,12 +54,25 @@ FAF-Freight-Analytics-MySQL/
 │   ├── 06_trade_type_analysis.sql
 │   ├── 07_freight_corridors.sql
 │   └── 08_advanced_mode_rankings.sql
+│
 ├── docs/
 │   ├── dataset_and_methodology.md
 │   ├── data_validation.md
 │   └── business_insights.md
+│
 ├── screenshots/
+│   ├── 03_transportation_analysis.png
+│   ├── 04_commodity_analysis_1.png
+│   ├── 04_commodity_analysis_2.png
+│   ├── 05_yearly_trends.png
+│   ├── 06_trade_type_analysis.png
+│   ├── 07_freight_corridors_1.png
+│   ├── 07_freight_corridors_2.png
+│   └── 08_advanced_mode_rankings.png
+│
 └── README.md
+```
+
 ```
 
 ## Business Questions and Analysis
